@@ -1,2 +1,2 @@
 # Simon-Game
-Just a static web game build with html, css, node js
+Just a web game build with html, css, node js
